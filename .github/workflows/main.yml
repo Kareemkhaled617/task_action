@@ -20,3 +20,4 @@ jobs:
         with:
           push: true
           tags: Kareemkhaled11/java-hello-world-from-github-actions:latest
+
