@@ -19,5 +19,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: Kareemkhaled11/java-hello-world-from-github-actions:latest
+          tags: kareemkhaled11/java-hello-world-from-github-actions:latest
 
